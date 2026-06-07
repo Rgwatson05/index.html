@@ -1,1 +1,12 @@
-# index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Retail Discount Engine</title>
+</head>
+<body>
+    <h1>Retail Discount Engine</h1>
+
+    <script src="cc_4.js"></script>
+</body>
+</html>
